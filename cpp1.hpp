@@ -10,11 +10,15 @@ public:
     int a;
     static Singelton *getInstance();
 
+<<<<<<< HEAD
 
     
 
 
     /* for test only  */
+=======
+    /* this is revision branch with changes*/
+>>>>>>> revision
 
 };
 
