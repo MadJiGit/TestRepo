@@ -11,6 +11,9 @@ public:
     static Singelton *getInstance();
 
 
+    
+
+
     /* for test only  */
 
 };
