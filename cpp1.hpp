@@ -10,7 +10,7 @@ public:
     int a;
     static Singelton *getInstance();
 
-    /* this is main branch */
+    /* this is revision branch */
 
 };
 
