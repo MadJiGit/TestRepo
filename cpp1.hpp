@@ -16,6 +16,9 @@ public:
     /* for test only  */
     /* this is revision branch with changes*/
 
+
+    void printsmth();
+
 };
 
 /*
