@@ -10,6 +10,9 @@ public:
     int a;
     static Singelton *getInstance();
 
+
+    /* for test only  */
+
 };
 
 /*
